@@ -1,0 +1,7 @@
+@charset "UFT-8";
+
+body {
+    background-image: url("../imagens/fundo-madeira.jpg");
+    background-attachment: fixed;
+    background-position: center;
+}
